@@ -1,6 +1,6 @@
 👋 Hi, I’m @wmasmussen
   - Pronouns: They/Them/He/Him
-  - Location: Massachusetts
+  - Location: New Hampshire
   - Company: @conduce-health
 
 👀 I’m interested in:
