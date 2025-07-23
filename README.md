@@ -1,5 +1,5 @@
 👋 Hi, I’m @wmasmussen
-  - Pronouns: They/Them/He/Him
+  - Pronouns: They/He
   - Location: New Hampshire
   - Company: @conduce-health
 
