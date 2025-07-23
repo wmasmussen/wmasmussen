@@ -5,22 +5,18 @@
 
 👀 I’m interested in:
   - Healthtech
-  - Data analytics
-  - Data science
-  - New Technologies
+  - Political Action
+  - Data architecture
   - AI/ML/NLP
-
-🌱 I’m currently learning ...
-  - DBT (there's still so much to learn!)
-  - Data Science Fundamentals
-  - Python
+  - Data science & analytics
+  - New Technologies
 
 📫 How to reach me ...
   - bill@conducehealth.com
 
 ⚡ Fun facts ...
   - In another life, I was a digital forensic examiner.
-  - I've got 2 cats, a dog, and a 2 year old. I'm not sure which of the three causes more commotion in the house.
+  - I've got 2 cats, a dog, and a 3 year old. I'm not sure which of the three causes more commotion in the house.
   - My favorite place I've traveled is Denmark.
 
 <!---
