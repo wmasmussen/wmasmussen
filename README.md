@@ -1,7 +1,7 @@
 👋 Hi, I’m @wmasmussen
   - Pronouns: They/He
   - Location: New Hampshire
-  - Company: @conduce-health
+  - Company: TBA
 
 👀 I’m interested in:
   - Healthtech
@@ -12,7 +12,7 @@
   - New Technologies
 
 📫 How to reach me ...
-  - bill@conducehealth.com
+  - tba
 
 ⚡ Fun facts ...
   - In another life, I was a digital forensic examiner.
