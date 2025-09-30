@@ -1,7 +1,7 @@
 👋 Hi, I’m @wmasmussen
   - Pronouns: They/He
   - Location: New Hampshire
-  - Company: TBA
+  - Company: Switchboard Health
 
 👀 I’m interested in:
   - Healthtech
